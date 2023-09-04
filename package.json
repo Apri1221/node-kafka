@@ -11,7 +11,10 @@
   "author": "apri",
   "license": "ISC",
   "dependencies": {
+    "@kafkajs/confluent-schema-registry": "^3.3.0",
+    "@ovotech/avro-decimal": "^0.1.5",
     "body-parser": "^1.20.2",
+    "decimal.js": "^10.4.3",
     "express": "^4.18.2",
     "kafkajs": "^2.2.4"
   }
